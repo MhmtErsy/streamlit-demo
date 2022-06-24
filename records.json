@@ -1,0 +1,52 @@
+{
+    "records": [
+        {
+            "DISTRIBUTOR_ADI": "ARCELIK",
+            "ID": "3234",
+            "SATIS_FIYATI": "2340000",
+            "ALIS_FIYATI": "1500000"
+        },
+        {
+            "DISTRIBUTOR_ADI": "BEKO",
+            "ID": "3454",
+            "SATIS_FIYATI": "1600000",
+            "ALIS_FIYATI": "1500000"
+        },
+        {
+            "DISTRIBUTOR_ADI": "BOSCH",
+            "ID": "3674",
+            "SATIS_FIYATI": "2550000",
+            "ALIS_FIYATI": "1500000"
+        },
+        {
+            "DISTRIBUTOR_ADI": "TOSHIBA",
+            "ID": "3894",
+            "SATIS_FIYATI": "1450000",
+            "ALIS_FIYATI": "1500000"
+        },
+        {
+            "DISTRIBUTOR_ADI": "SAMSUNG",
+            "ID": "4114",
+            "SATIS_FIYATI": "1460000",
+            "ALIS_FIYATI": "1500000"
+        },
+        {
+            "DISTRIBUTOR_ADI": "APPLE",
+            "ID": "4334",
+            "SATIS_FIYATI": "2600000",
+            "ALIS_FIYATI": "1500000"
+        },
+        {
+            "DISTRIBUTOR_ADI": "NVIDIA",
+            "ID": "4554",
+            "SATIS_FIYATI": "1809000",
+            "ALIS_FIYATI": "1500000"
+        },
+        {
+            "DISTRIBUTOR_ADI": "AOC",
+            "ID": "4774",
+            "SATIS_FIYATI": "1980043",
+            "ALIS_FIYATI": "1500000"
+        }
+    ]
+}
